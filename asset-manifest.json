@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/json-parser-raidix/static/css/main.779db8de.css",
+    "main.js": "/json-parser-raidix/static/js/main.d18917bf.js",
+    "static/js/453.f2765f6a.chunk.js": "/json-parser-raidix/static/js/453.f2765f6a.chunk.js",
+    "index.html": "/json-parser-raidix/index.html",
+    "main.779db8de.css.map": "/json-parser-raidix/static/css/main.779db8de.css.map",
+    "main.d18917bf.js.map": "/json-parser-raidix/static/js/main.d18917bf.js.map",
+    "453.f2765f6a.chunk.js.map": "/json-parser-raidix/static/js/453.f2765f6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779db8de.css",
+    "static/js/main.d18917bf.js"
+  ]
+}
