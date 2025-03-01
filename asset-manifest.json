@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/artem-json-parser/static/css/main.779db8de.css",
-    "main.js": "/artem-json-parser/static/js/main.30ac47e0.js",
-    "static/js/453.f2765f6a.chunk.js": "/artem-json-parser/static/js/453.f2765f6a.chunk.js",
+    "main.css": "/artem-json-parser/static/css/main.fd45e9e3.css",
+    "main.js": "/artem-json-parser/static/js/main.f4dc96b1.js",
     "index.html": "/artem-json-parser/index.html",
-    "main.779db8de.css.map": "/artem-json-parser/static/css/main.779db8de.css.map",
-    "main.30ac47e0.js.map": "/artem-json-parser/static/js/main.30ac47e0.js.map",
-    "453.f2765f6a.chunk.js.map": "/artem-json-parser/static/js/453.f2765f6a.chunk.js.map"
+    "main.fd45e9e3.css.map": "/artem-json-parser/static/css/main.fd45e9e3.css.map",
+    "main.f4dc96b1.js.map": "/artem-json-parser/static/js/main.f4dc96b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.779db8de.css",
-    "static/js/main.30ac47e0.js"
+    "static/css/main.fd45e9e3.css",
+    "static/js/main.f4dc96b1.js"
   ]
 }
