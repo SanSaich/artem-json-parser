@@ -1,0 +1,17 @@
+export const TRANSLATIONS = {
+    raid: 'RAID-массивы',
+    network: 'Сеть',
+    drive: 'Диски',
+    sensors: 'Сенсоры',
+    lun: 'Логические тома (LUN)',
+    host: 'Хосты',
+    iscsi: 'iSCSI',
+    system: 'Система',
+    profile: 'Профиль',
+    param: 'Параметры',
+    verify: 'Проверка',
+    sparepool: 'Резервные пулы',
+    notify: 'Уведомления',
+    nodes: 'Узлы',
+    volume: 'Хранилища',
+};

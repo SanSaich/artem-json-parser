@@ -12,10 +12,24 @@ code {
     monospace;
 }
 
-.json-color {
-  color: white;
+.MuiTabs-scroller {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.json-bg {
-  background-color: #fff;
+.MuiTabs-flexContainer {
+  flex-wrap: wrap;
+}
+
+.MuiTabs-indicator {
+  display: none;
+}
+
+.MuiTab-root {
+  min-height: 32px !important;
+}
+
+.Mui-selected {
+  border: 1px solid #1976d2 !important;
+  border-radius: 8px !important;
 }
